@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnsarBatuhanAyd
-- 👀 I’m interested in Space and Rocket Techologies
-- 🌱 I'am CEO and founder of RISE SPACE
+- 👀 I’m interested in Space, Rocket Techologies, Future...
+- 🌱 I'am CEO and founder of RISE SPACE, NOVERIA SOFTWARE, FOCUS EFFECT
 - 📫 How to reach me ensarbatuhanayd@gmail.com
 
 <!---
