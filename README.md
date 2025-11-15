@@ -1,7 +1,4 @@
 <h1 align="center">👋 Hi, I'm Ensar Batuhan Ayd</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="150"/>
-</p>
 
 <p align="center">
   🚀 CEO & Founder of <b>RISE SPACE</b>, <b>NOVERIA SOFTWARE</b>, <b>FOCUS EFFECT</b>
@@ -40,7 +37,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnsarBatuhanAyd&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsarBatuhanAyd&layout=compact&hide_border=true&theme=radical" />
 </p>
 
@@ -54,20 +51,9 @@
   <a href="https://www.linkedin.com/in/ensarbatuhanayd/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/EnsarBatuhanAyd">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ensarbatuhanayd/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+
 </p>
 
----
-
-## 🚀 Fun Space Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/l4pTdcifYk2eQ7A8Y/giphy.gif" width="400"/>
-</p>
 
 ---
 
