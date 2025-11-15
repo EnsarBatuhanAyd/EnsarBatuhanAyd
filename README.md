@@ -42,7 +42,7 @@ Currently leading innovative projects in <b>tech & aerospace</b>, and exploring 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHoyc3A4ejdnbXJ3ZTltdzR1cjlzODgzczI3Nnl4OWhmcjZ6dWw1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PoJXBP99iqK7DtbNCC/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHoyc3A4ejdnbXJ3ZTltdzR1cjlzODgzczI3Nnl4OWhmcjZ6dWw1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PoJXBP99iqK7DtbNCC/giphy.gif" height="160em"/>
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsarBatuhanAyd&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
