@@ -3,6 +3,11 @@
   🚀 CEO & Founder of <b>RISE SPACE</b>, <b>NOVERIA SOFTWARE</b>, <b>FOCUS EFFECT</b>
 </p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc2Y3k1ejk1cnVqcjlyMDNlM2o5bGZmMW1ycXZncmZjM2NtcnlnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mi6DsSSNKDbUY/giphy.gif" width="250"/>
+
+</p>
+
 ---
 
 ## 🌌 About Me
