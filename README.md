@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Ensar Batuhan Ayd</h1>
-
 <p align="center">
   🚀 CEO & Founder of <b>RISE SPACE</b>, <b>NOVERIA SOFTWARE</b>, <b>FOCUS EFFECT</b>
 </p>
@@ -7,13 +6,14 @@
 ---
 
 ## 🌌 About Me
-- 👀 Passionate about **Space, Rocket Technologies, AI, and the Future**  
-- 🌱 Leading **innovative tech & aerospace projects**  
-- 💡 Constantly exploring new ideas in **AI, Software, Rocketry, and Space Exploration**  
+<p align="center">
+I'm passionate about <b>Space, Rocket Technologies, AI, and the Future</b>.  
+Currently leading innovative projects in <b>tech & aerospace</b>, and exploring ideas in <b>AI, Software, Rocketry, and Space Exploration</b>.
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌐 Languages I Speak
+## 🌐 Languages
 <p align="center">
   <img alt="English" src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge"/>
   <img alt="Turkish" src="https://img.shields.io/badge/Turkish-Native-red?style=for-the-badge"/>
@@ -37,13 +37,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsarBatuhanAyd&layout=compact&hide_border=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnsarBatuhanAyd&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsarBatuhanAyd&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 <p align="center">
   <a href="mailto:ensarbatuhanayd@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -51,9 +51,10 @@
   <a href="https://www.linkedin.com/in/ensarbatuhanayd/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  <a href="https://twitter.com/EnsarBatuhanAyd">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
-
 
 ---
 
