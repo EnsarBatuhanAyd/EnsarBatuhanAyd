@@ -42,7 +42,7 @@ Currently leading innovative projects in <b>tech & aerospace</b>, and exploring 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnsarBatuhanAyd&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+ 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsarBatuhanAyd&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
