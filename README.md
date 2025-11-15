@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ensar Batuhan Ayd</h1>
+<h1 align="center">👋 Hi, I'm Ensar Batuhan Aydın</h1>
 <p align="center">
   🚀 CEO & Founder of <b>RISE SPACE</b>, <b>NOVERIA SOFTWARE</b>, <b>FOCUS EFFECT</b>
 </p>
@@ -42,7 +42,7 @@ Currently leading innovative projects in <b>tech & aerospace</b>, and exploring 
 
 ## 📊 GitHub Stats
 <p align="center">
- 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnsarBatuhanAyd&theme=react-dark&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsarBatuhanAyd&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
